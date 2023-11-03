@@ -1,9 +1,9 @@
 ## Cold Waters British voice pack
 AI-generated British accent voice pack for Cold Waters - a great addition for your Royal Navy Campaigns.\
-Requires at least dotmod v0.4a-2.
+Requires at least DotMod v0.4a-2.
 
 ### Installation
-1) Ensure you are starting with a fresh install of Cold Waters and dotmod v0.4a-2.
+1) Ensure you are starting with a fresh install of Cold Waters and DotMod v0.4a-2.
 2) If you use JSGME with Cold Waters, add the mod to your MODS folder and activate through JSGME.exe.
    
 _Note:_ if you don't use JSGME, you can just copy the mod's content into your Cold Waters installation directory as the content matches the folder structure.
