@@ -9,7 +9,7 @@ https://github.com/DotModGroup/ColdWaters-DotMod
 I have provided both clean samples and samples with a pseudo-radio effect applied for you to choose from.
 
 1) Ensure you are starting with a fresh install of Cold Waters and DotMod v0.4a-2.
-2) If you use JSGME with Cold Waters, add either the clean or radio-effect samples (or a mix if you prefer) folder to your MODS folder and activate through JSGME.exe.
+2) If you use JSGME with Cold Waters, add either the clean or radio-effect samples folder (or even a mix of the samples if you prefer) to your MODS folder and activate through JSGME.exe.
    
 _Note:_ if you don't use JSGME, you can just copy the samples folder into your Cold Waters installation directory as the content matches the folder structure.
 
